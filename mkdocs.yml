@@ -1,0 +1,11 @@
+site_name: Documentación CEIP Virgen del Pilar
+theme:
+  name: material
+  language: es
+
+nav:
+  - Inicio: index.md
+  - Proyecto Educativo: proyecto-educativo.md
+  - ROF: rof.md
+  - Consejo Escolar: consejo-escolar.md
+  - Planes y Programas: planes-programas.md
